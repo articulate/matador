@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.env
+.yarn*
+docker-compose.override.yml
+lambda.zip
+node_modules

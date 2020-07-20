@@ -1,0 +1,24 @@
+{
+  "name": "@articulate/bull-worker",
+  "version": "0.0.1",
+  "description": "Job worker abstraction backed by bull-queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/articulate/bull-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/articulate/bull-worker/issues"
+  },
+  "homepage": "https://github.com/articulate/bull-worker#readme",
+  "dependencies": {
+    "bull": "^3.14.0",
+    "lodash.merge": "^4.6.2",
+    "verror": "^1.10.0"
+  }
+}

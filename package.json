@@ -1,5 +1,5 @@
 {
-  "name": "@articulate/bull-worker",
+  "name": "@articulate/matador",
   "version": "0.0.1",
   "description": "Job worker abstraction backed by bull-queue",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/articulate/bull-worker.git"
+    "url": "git+https://github.com/articulate/matador.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/articulate/bull-worker/issues"
+    "url": "https://github.com/articulate/matador/issues"
   },
-  "homepage": "https://github.com/articulate/bull-worker#readme",
+  "homepage": "https://github.com/articulate/matador#readme",
   "dependencies": {
     "bull": "^3.14.0",
     "lodash.merge": "^4.6.2",
